@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ismail!
 
-I'm a passionate Front-End Developer with experience in creating modern, responsive websites. Let's build something amazing together!
+I'm a dedicated Front-End Web Developer with a strong passion for crafting user-centric, modern, and responsive web solutions. My expertise includes transforming designs into fully functional websites using technologies like HTML, CSS, TailwindCSS, Bootstrap, JavaScript, and React. I strive to bridge the gap between design and functionality to create seamless, interactive experiences that engage users across all devices. Let’s work together to build something exceptional that makes a lasting impression!
 
 [My Portfolio]((https://muhismailmks.github.io/portfolio/))
 
@@ -16,9 +16,11 @@ I'm a passionate Front-End Developer with experience in creating modern, respons
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 ### 🔥 Projects
-- [BMW landing page React]((https://muhismailmks.github.io/bmwcars/)) - Convert Figma design to website using React JS and CSS3
+- [BMW landing page React](https://muhismailmks.github.io/bmwcars/) - Convert Figma design to website using React JS and CSS3
 - [Real Estate Landing Page NextJS](https://real-estate-next-js-tau.vercel.app/) - Convert Figma design to website using Next JS and Tailwind CSS
-
+- [Tasty Cuisine](https://real-estate-next-js-tau.vercel.app/) - Convert Figma design to html website, I also use open API for this website
+- [Sony Headphone](https://real-estate-next-js-tau.vercel.app/) - I made the design with figma and converted it to html, this website is fully responsive
+  
 ### 📫 How to reach me:
 - Email: [muhismailmks@gmail.com](mailto:muhismailmks@gmail.com]) 
 - Fiverr: [my Fiverr service](https://www.fiverr.com/ismailwebbuilt?up_rollout=true#!)

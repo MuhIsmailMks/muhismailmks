@@ -18,9 +18,10 @@ I'm a dedicated Front-End Web Developer with a strong passion for crafting user-
 ### 🔥 Projects
 - [BMW landing page React](https://muhismailmks.github.io/bmwcars/) - Convert Figma design to website using React JS and CSS3
 - [Real Estate Landing Page NextJS](https://real-estate-next-js-tau.vercel.app/) - Convert Figma design to website using Next JS and Tailwind CSS
-- [Tasty Cuisine](https://real-estate-next-js-tau.vercel.app/) - Convert Figma design to html website, I also use open API for this website
-- [Sony Headphone](https://real-estate-next-js-tau.vercel.app/) - I made the design with figma and converted it to html, this website is fully responsive
-  
+- [Tasty Cuisine](https://muhismailmks.github.io/tastyCuisine/) - Convert Figma design to html website, I also use open API for this website
+- [Sony Headphone](https://muhismailmks.github.io/sonyheadphone/) - I made the design with figma and converted it to html, this website is fully responsive
+- [Garmin Landing page](https://muhismailmks.github.io/onWatch/) - I made the design with figma and converted it to html, tailwind CSS
+
 ### 📫 How to reach me:
 - Email: [muhismailmks@gmail.com](mailto:muhismailmks@gmail.com]) 
 - Fiverr: [my Fiverr service](https://www.fiverr.com/ismailwebbuilt?up_rollout=true#!)

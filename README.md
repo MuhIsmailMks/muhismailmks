@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Ismail!
 
-I'm a dedicated Front-End Web Developer with a strong passion for crafting user-centric, modern, and responsive web solutions. My expertise includes transforming designs into fully functional websites using technologies like HTML, CSS, TailwindCSS, Bootstrap, JavaScript, and React. I strive to bridge the gap between design and functionality to create seamless, interactive experiences that engage users across all devices. Let’s work together to build something exceptional that makes a lasting impression!
+I'm a dedicated Front-End Web Developer with a strong passion for creating user-centric, modern, and responsive web solutions. My expertise includes transforming designs into fully functional websites using technologies such as HTML, CSS, TailwindCSS, Bootstrap, JavaScript, and React. I strive to create design and functionality to create seamless interactive experiences that engage users across all devices. Let’s work together to build something amazing that leaves a lasting impression!
 
 [My Portfolio]((https://muhismailmks.github.io/portfolio/))
 

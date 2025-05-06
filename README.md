@@ -2,7 +2,7 @@
 
 I'm a dedicated Front-End Web Developer with a strong passion for creating user-centric, modern, and responsive web solutions. My expertise includes transforming designs into fully functional websites using technologies such as HTML, CSS, TailwindCSS, Bootstrap, JavaScript, and React. I strive to create design and functionality to create seamless interactive experiences that engage users across all devices. Let’s work together to build something amazing that leaves a lasting impression!
 
-[My Portfolio]((https://muhismailmks.github.io/portfolio/))
+[My Portfolio](https://muhismailmks.github.io/portfolio/)
 
 ### 🛠️ Languages and Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)

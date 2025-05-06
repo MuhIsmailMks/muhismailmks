@@ -18,6 +18,10 @@ I'm a dedicated Front-End Web Developer with a strong passion for creating user-
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 
+### Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhismailmks&show_icons=true&theme=radical)
+
+
 ### 🔥 Projects
 - [BMW landing page React](https://bmwcars-one.vercel.app/) - Convert Figma design to website using React JS and CSS3
 - [Real Estate Landing Page NextJS](https://real-estate-next-js-tau.vercel.app/) - Convert Figma design to website using Next JS and Tailwind CSS

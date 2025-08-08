@@ -27,8 +27,7 @@ I'm a dedicated Front-End Web Developer with a strong passion for creating user-
 - [Crypto Gravity Landing page](https://grativy-crypto.vercel.app/) - I convert Figma design to ReactJS and tailwindCSS
 
 ### 📫 How to reach me:
-- Email: [muhismailmks@gmail.com](mailto:muhismailmks@gmail.com]) 
-- Fiverr: [my Fiverr service](https://www.fiverr.com/ismailwebbuilt?up_rollout=true#!)
+- Email: [muhismailmks@gmail.com](mailto:muhismailmks@gmail.com])  
 
 
 

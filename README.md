@@ -19,6 +19,8 @@ I'm a dedicated Front-End Web Developer with a strong passion for creating user-
 ![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
 
 ### 🔥 Projects
+- [PixelForge NFT React Website](https://pixel-forge-nft.vercel.app/) - Design & Convert Figma to React with Tailwind CSS, add GSAP & Framer motion animation
+- [Nexmind AI Landing page](https://nexmind-ai-tech.vercel.app/) - Design & Convert Figma to React with Tailwind CSS and GSAP
 - [BMW landing page React](https://bmwcars-one.vercel.app/) - Convert Figma design to website using React JS and CSS3
 - [Real Estate Landing Page NextJS](https://real-estate-next-js-tau.vercel.app/) - Convert Figma design to website using Next JS and Tailwind CSS
 - [Tasty Cuisine](https://muhismailmks.github.io/tastyCuisine/) - Convert Figma design to html website, I also use open API for this website
@@ -28,8 +30,6 @@ I'm a dedicated Front-End Web Developer with a strong passion for creating user-
 
 ### 📫 How to reach me:
 - Email: [muhismailmks@gmail.com](mailto:muhismailmks@gmail.com])  
-
-
 
 <!--
 **MuhIsmailMks/muhismailmks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -22,7 +22,7 @@ I'm a dedicated Front-End Web Developer with a strong passion for creating user-
 
 ### 🔥 Projects
 - [AnalityxPro Landing Page](https://analytixpro.framer.website/) - create landing pages using framer web builder fully responsive and good SEO
-- [PixelForge NFT React Website](https://pixel-forge-nft.vercel.app/) - Design & Convert Figma to React with Tailwind CSS, add GSAP & Framer motion animation
+- [PixelForge NFT React Website](https://pixel-forge-nft.vercel.app/) - Design Web & Convert Figma to React with Tailwind CSS, add GSAP & Framer motion animation
 - [Nexmind AI Landing page](https://nexmind-ai-tech.vercel.app/) - Design & Convert Figma to React with Tailwind CSS and GSAP
 - [BMW landing page React](https://bmwcars-one.vercel.app/) - Convert Figma design to website using React JS and CSS3
 - [Real Estate Landing Page NextJS](https://real-estate-next-js-tau.vercel.app/) - Convert Figma design to website using Next JS and Tailwind CSS
